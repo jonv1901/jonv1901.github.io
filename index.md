@@ -6,8 +6,8 @@
   things that I find cool or interesting, whether it be listening to new music, eating different foods, or actual full-fledged activities.
   
   My favorite food, even since I was a kid is sushi:
-  [Sushi](https://user-images.githubusercontent.com/89399481/135500840-931e5305-dcef-4158-bbd5-2cea6067764b.png)
-  
+  ![Sushi](https://user-images.githubusercontent.com/89399481/135500840-931e5305-dcef-4158-bbd5-2cea6067764b.png)
+ 
   [RIT's Software Engineering Website](https://www.rit.edu/computing/department-software-engineering)
   
   Here's what I'd like to learn from this course:
