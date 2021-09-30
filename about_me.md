@@ -9,6 +9,7 @@
   [Image](https://github.com/jonv1901/jonv1901.github.io/issues/1#issue-1012408458)
   
   [RIT's Software Engineering Website](https://www.rit.edu/computing/department-software-engineering)
+  
  '''
   Here's what I'd like to learn from this course:
     - More about the business side of Software Engineering
