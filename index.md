@@ -14,9 +14,3 @@
   * More about the business side of Software Engineering
   * What makes or breaks a professional in this field
   * Some tips and tricks to keep in mind as I move forward down this path
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonv1901/jonv1901.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
