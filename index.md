@@ -1,34 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jonv1901/jonv1901.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+## About Me:
+  Hi! My name is Jonathan Vu, and I'm a Software Engineering student at RIT.
+  
+  I went to John F. Kennedy Senior High School in Buffalo, New York, and during my time there I joined many clubs such as Class Government, 
+  the bowling team, the Foreign Language Club, etc. My hobbies include reading, playing games, playing tennis, and generally just trying out
+  things that I find cool or interesting, whether it be listening to new music, eating different foods, or actual full-fledged activities.
+  
+  My favorite food, even since I was a kid is sushi:
+  [Sushi](![Sushi](https://user-images.githubusercontent.com/89399481/135500840-931e5305-dcef-4158-bbd5-2cea6067764b.png)
+  
+  [RIT's Software Engineering Website](https://www.rit.edu/computing/department-software-engineering)
+  
+  Here's what I'd like to learn from this course:
+  * More about the business side of Software Engineering
+  * What makes or breaks a professional in this field
+  * Some tips and tricks to keep in mind as I move forward down this path
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonv1901/jonv1901.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
