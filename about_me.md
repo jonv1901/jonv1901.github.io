@@ -10,9 +10,7 @@
   
   [RIT's Software Engineering Website](https://www.rit.edu/computing/department-software-engineering)
   
- '''
   Here's what I'd like to learn from this course:
-    * More about the business side of Software Engineering
-    * What makes or breaks a professional in this field
-    * Some tips and tricks to keep in mind as I move forward down this path
-'''
+  * More about the business side of Software Engineering
+  * What makes or breaks a professional in this field
+  * Some tips and tricks to keep in mind as I move forward down this path
